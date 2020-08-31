@@ -1,0 +1,32 @@
+button{
+    background: rgb(63, 101, 116);
+    color: teal;
+}
+#para1{
+    color:violet
+}
+#para2{
+    color: blueviolet;
+}
+.new{
+    color:indianred;
+}
+
+.outer-box{
+    border:solid 5px;
+    border-color: palevioletred;
+    background: olive;
+    color: rgb(63, 101, 116);
+    width: 300px;
+    height: 200px;
+}
+.box{
+    margin-left: 100px;
+    padding-left: 50px;
+}
+.inner-div{
+    width: 100px;
+    height: 50px;
+    margin:10px;
+    background: orangered;
+}
